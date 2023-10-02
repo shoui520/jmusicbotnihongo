@@ -1,6 +1,6 @@
 ## jagroshさんのJMusicBotの日本語化。
 ## gitの使い方がわからないので、forkでではなくファイルのアップロードでrepoを作りました。ごめんなさい。私はプログラマーではありません。
-## jagroshさんの.jarと同じような.jarをコンパイルする方法もわかりません。よってこのrepoにあるあらゆるコードは現在テストされていません。jagroshさん曰く、**依存が多い**ため、ハードルが高そうです。
+## jagroshさんの.jarと同じような.jarをコンパイルする方法もわかりません。よってrepo内のあらゆるコードは現在テストされていません。jagroshさん曰く、**依存が多い**ため、ハードルが高そうです。
 ## src/main/java/com/jagrosh/jmusicbot/commands/music/SearchCmd.javaの126-128行を除く、すべての文字列は和訳されました。SearchCmd.javaの126-128行は、プログラミングのできないわたしには、日本語の語順に再構築するのが難しかったため、英語のままにしています。プログラミングがわかるみなさんのご協力をお願いいたします。
 
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
